@@ -1,2 +1,2 @@
-# instantForms
- https://nagadeepsharma.github.io/Instant-Forms/
+# InstantForms
+ https://mvvsdurga.github.io/instantforms/
